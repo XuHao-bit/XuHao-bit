@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XuHao-bit
 - 👀 I’m interested in Computer System and Machine Learning.
-- 🌱 I’m currently learning CS int TongJi University
+- 🌱 I’m currently learning CS in TongJi University in China.
 - 📫 How to reach me at xuhaobit@gmail.com
 
 <!---
