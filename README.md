@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XuHao-bit
-- 👀 I’m interested in Computer System and Machine Learning.
+- 👀 I’m interested in Privacy and Cold-Start problems in Recommender Systems.
 - 🌱 I’m currently learning CS in Shanghai Jiao Tong University in China.
-- 📫 How to reach me at xuhaobit@gmail.com and zhaoxuhao@sjtu.edu.cn
+- 📫 How to reach me at zhaoxuhao@sjtu.edu.cn
 
 <!---
 XuHao-bit/XuHao-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
